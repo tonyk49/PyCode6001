@@ -24,6 +24,7 @@ import time
 #
 #
 # Problem #6: Computer chooses a word
+# for git test purpose only
 #
 #
 def compChooseWord(hand, wordList, n):
