@@ -1,6 +1,6 @@
 from ps4a import *
 import time
-
+#RAF: added another line, to be deleted 
     # BEGIN PSEUDOCODE <-- Remove this comment when you code this function; do your coding within the pseudocode (leaving those comments in-place!)
     # Create a new variable to store the maximum score seen so far (initially 0)
 
