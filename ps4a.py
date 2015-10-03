@@ -8,6 +8,7 @@
 import random
 import string
 
+# for the git test purposes, program not changed 
 
 VOWELS = 'aeiou'
 CONSONANTS = 'bcdfghjklmnpqrstvwxyz'
